@@ -1,0 +1,8 @@
+//
+// Created by Erfan Karimi on 11.07.22.
+//
+
+#ifndef OBJEKT_AUFRUF_CASE_REFERENCE_H
+#define OBJEKT_AUFRUF_CASE_REFERENCE_H
+
+#endif //OBJEKT_AUFRUF_CASE_REFERENCE_H
